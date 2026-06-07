@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "sigmassmpoffical.aternos.me",
+    "ip": "sigmassmpoffical.aternos.me:64528",
     "port": 64528,
     "version": "1.20.1",
     "try-creative": false
